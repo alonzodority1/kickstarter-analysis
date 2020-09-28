@@ -37,5 +37,4 @@ The main limitation of the data set is detailed information on the pledges.  An 
 Other possibilities for graphs that could be relative to Louise’s inquiry include:
 Outcomes Based on Duration
 Outcomes Based on Average Donation
-Outcomes Based on Country
 Outcomes Based on Funding Goal and Launch Date 
